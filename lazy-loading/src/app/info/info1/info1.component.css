@@ -1,0 +1,97 @@
+header {
+    background-color: lightskyblue;
+    padding: 20px;
+  }
+  .welcome-heading {
+    font-size: 24px;
+    color: #333;
+    margin: 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  footer {
+    background-color: lightgrey;
+    position: absolute;
+    bottom: 1px;
+    padding: 22px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  p {
+    margin: 0;
+  }
+  .welcome-home{
+    color: white;
+  }
+  .welcome-contact{
+    color: white;
+  }
+  .welcome-info{
+    color: white;
+  }
+  .abc{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 20px;
+    margin-top: -50px;
+    margin-right: 80px;
+  }
+
+
+  body {
+    background-color: #f5f7fb;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #232f3e;
+    padding: 10px;
+    color: #fff;
+  }
+  
+  .about-section {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .background-sketch {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #f7f7f7;
+    z-index: -1;
+    opacity: 0.8;
+    transform: rotate(-5deg);
+  }
+  
+  .content {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #232f3e;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+  }
+  

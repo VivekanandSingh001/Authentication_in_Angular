@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signUpUsers": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "fullName": "vivek",
+      "email": "vsingh9106@gmail.com",
+      "password": "abcd",
+      "mobile": "09324129480",
+      "id": 2
+    },
+    {
+      "fullName": "vivek",
+      "email": "vsingh9106@gmail.com",
+      "password": "1234",
+      "mobile": "09324129480",
+      "id": 3
+    },
+    {
+      "fullName": "vivek",
+      "email": "vsingh9106@gmail.com",
+      "password": "1234512345",
+      "mobile": "09324129480",
+      "id": 4
+    },
+    {
+      "fullName": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 5
+    },
+    {
+      "fullName": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

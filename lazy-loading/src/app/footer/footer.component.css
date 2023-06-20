@@ -1,0 +1,13 @@
+footer {
+    background-color: lightgrey;
+    position: absolute;
+    bottom: 1px;
+    padding: 22px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
